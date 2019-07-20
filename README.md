@@ -5,7 +5,7 @@
 
 1.2 Straßenverkehrsordnung https://github.com/raidrp/Regelwerk/blob/master/StVO.md
 
-1.3 Allgemeine Geschäftsbedingungen https://github.com/raidrp/Regelwerk/blob/master/AGB.md
+1.3 Allgemeine Geschäftsbedingungen https://github.com/MinimeYT/RegelwerkGRP/blob/master/AGB.md
 
 # Regelwerk
 // Willkommen im Gaming-RP Regelwerk //
@@ -134,4 +134,4 @@ Jeder User und jedes Teammitglied hat sich an das Regelwerk und der AGB von Gami
 weitere Dateien
 // StVO // https://github.com/raidrp/Regelwerk/blob/master/StVO.md
 
-// Allgemeine Geschäfts Bedingungen // https://github.com/raidrp/Regelwerk/blob/master/AGB.md
+// Allgemeine Geschäfts Bedingungen // https://github.com/MinimeYT/RegelwerkGRP/blob/master/AGB.md
