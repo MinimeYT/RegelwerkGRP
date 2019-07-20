@@ -10,7 +10,7 @@ und hat höchste Priorität im Falle eines Missverständnisses o.ä.`
 bereits bei dem Kauf von GTA stimmen Sie zu, GTA mit 18 Jahren erworben zu haben.
 Sollte dies nicht der Fall sein, sind Sie für alle Verstöße oder ihre Eltern aufzukommen.
 
-- Im Falle eines permanenten oder temporären Bannes kommt Raid Roleplay nicht für die "gestohlene" Zeit auf,
+- Im Falle eines permanenten oder temporären Bannes kommt Gaming Roleplay nicht für die "gestohlene" Zeit auf,
 die benötigt wurde um bestimmte ingame- Items oder Gegenstände zu erarbeiten.
 
 - Im Falle das ihr GTA nicht mehr funktioniert o.ä. kommt GamingRP *nicht* hierfür auf.
