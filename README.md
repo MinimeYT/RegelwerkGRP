@@ -1,6 +1,6 @@
 # Regelwerk
-# Inhaltsverzeichniss
 
+**Inhaltsverzeichniss**
 1.0 Regelwerk https://github.com/MinimeYT/RegelwerkGRP/blob/master/README.md
 
 1.2 Straßenverkehrsordnung https://github.com/MinimeYT/RegelwerkGRP/blob/master/StVO.md
@@ -94,7 +94,7 @@ Jeder User und jedes Teammitglied hat sich an das Regelwerk und der AGB von Gami
 
 §5.4| Safezones sind:
 
-| Nur das Krankenhaus (100 Meter)
+    | Nur das Krankenhaus (100 Meter)
 
 # §6| Geiselnahme und Shopraub
 §6.1| Gefordert werden dürfen pro Geisel 15 Tausend Doller oder ein materieller Wert von 15 Tausend Dollern.
