@@ -1,9 +1,9 @@
 # Regelwerk
 # Inhaltsverzeichniss
 
-1.0 Regelwerk https://github.com/raidrp/Regelwerk/blob/master/README.md
+1.0 Regelwerk https://github.com/MinimeYT/RegelwerkGRP/blob/master/README.md
 
-1.2 Straßenverkehrsordnung https://github.com/raidrp/Regelwerk/blob/master/StVO.md
+1.2 Straßenverkehrsordnung https://github.com/MinimeYT/RegelwerkGRP/blob/master/StVO.md
 
 1.3 Allgemeine Geschäftsbedingungen https://github.com/MinimeYT/RegelwerkGRP/blob/master/AGB.md
 
@@ -132,6 +132,6 @@ Jeder User und jedes Teammitglied hat sich an das Regelwerk und der AGB von Gami
 §8.7| Das "Kuscheln" von mehren Gang wird nicht gerne gesehen und kann bestraft werden.
 
 weitere Dateien
-// StVO // https://github.com/raidrp/Regelwerk/blob/master/StVO.md
+// StVO // https://github.com/MinimeYT/RegelwerkGRP/blob/master/StVO.md
 
 // Allgemeine Geschäfts Bedingungen // https://github.com/MinimeYT/RegelwerkGRP/blob/master/AGB.md
